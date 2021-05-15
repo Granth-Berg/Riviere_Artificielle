@@ -1,0 +1,7 @@
+Coefficient 95 :
+Niveau hydrographique : 9m
+Niveau NGF de pleine mer : 4m
+Niveau NGF de l'eau dans la réserve à PM+3 : 3.5m dans la réserve et 0 dans la rivière
+
+On commence a utiliser le stade à PM+3 jusqu'a PM+9 (6h d'utilisation max)
+Lancement en mode initiation, donc débit de 4m
